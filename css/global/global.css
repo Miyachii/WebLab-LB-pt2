@@ -6,3 +6,16 @@
 
 
 }
+
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+    color: #00f485;
+    font-size: 1.5rem;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
